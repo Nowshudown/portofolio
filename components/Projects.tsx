@@ -51,14 +51,11 @@ const Projects: React.FC = () => {
                       href={p.githubUrl} 
                       target="_blank" 
                       rel="noopener noreferrer"
-                      className="text-xs font-black uppercase tracking-widest flex items-center gap-3 hover:text-primary transition-all"
+                      className="px-6 py-3 bg-white/5 border border-white/10 rounded-xl text-xs font-black uppercase tracking-widest flex items-center gap-3 hover:bg-primary hover:text-dark hover:border-primary transition-all"
                     >
-                      CODE SOURCE <Code className="w-4 h-4" />
+                      VOIR LE CODE SOURCE <Code className="w-4 h-4" />
                     </a>
                   )}
-                  <button className="text-xs font-black uppercase tracking-widest flex items-center gap-3 hover:text-primary transition-all">
-                    DÉMO LIVE <ExternalLink className="w-4 h-4" />
-                  </button>
                 </div>
               </div>
             </div>

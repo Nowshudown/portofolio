@@ -14,7 +14,7 @@ const Contact: React.FC = () => {
               Prêt à <span className="text-outline italic">Innover ?</span>
             </h3>
             <p className="text-xl text-slate-300 font-light mb-16 leading-relaxed">
-              Une idée de projet, une opportunité de collaboration ou simplement envie de discuter de Data Science et d'IA ? Écrivez-moi.
+              Une idée de projet, une opportunité de collaboration ou simplement envie de discuter de Data Analyst et d'IA ? Écrivez-moi.
             </p>
             
             <div className="space-y-8">
@@ -23,7 +23,7 @@ const Contact: React.FC = () => {
                 <span className="text-2xl font-bold group-hover:text-primary transition-colors underline decoration-1 underline-offset-8">adjakimfatima@gmail.com</span>
               </a>
               <div className="flex gap-8">
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors"><Linkedin className="w-10 h-10" /></a>
+                <a href="https://www.linkedin.com/in/adja-fatou-sagna-950359335/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BVp3ZjKjGQhuW0tyNHf3qSQ%3D%3D" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors"><Linkedin className="w-10 h-10" /></a>
                 <a href="https://github.com/Adjakim" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors"><Github className="w-10 h-10" /></a>
               </div>
             </div>

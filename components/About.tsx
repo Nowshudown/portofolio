@@ -15,18 +15,18 @@ const About: React.FC = () => {
             </h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 text-slate-300 text-lg font-light leading-relaxed">
               <p>
-                Data Scientist en formation spécialisée en Intelligence Artificielle et Big Data, je développe des solutions basées sur le Machine Learning et le Deep Learning pour analyser les données et aider à la prise de décision.
+                Data Analyst / Scientist  orienté Intelligence Artificielle et Big Data, j’accompagne les organisations dans l’exploitation stratégique de leurs données afin d’améliorer la performance, anticiper les tendances et optimiser la prise de décision.
               </p>
               <p>
-                Je maîtrise l'intégralité du cycle de vie des données : du nettoyage et l'analyse exploratoire à la modélisation statistique avancée et au déploiement d'applications IA performantes.
+                J’interviens sur l’ensemble du cycle de vie de la donnée : collecte, nettoyage, analyse exploratoire, modélisation prédictive et déploiement de solutions analytiques.
               </p>
             </div>
             
             <div className="mt-20 grid grid-cols-2 md:grid-cols-4 gap-8">
               {[
                 { label: 'Formation', val: 'Master IA' },
-                { label: 'Spécialité', val: 'Deep Learning' },
-                { label: 'Outils', val: 'TensorFlow' },
+                { label: 'Spécialité', val: 'Net analyse et Science des données' },
+                { label: 'Outils', val: 'python ,sql ,git, power bi , docker , unbuntu' },
                 { label: 'Localisation', val: 'Paris / Dakar' }
               ].map((item, i) => (
                 <div key={i} className="p-6 border border-white/5 bg-white/2 rounded-2xl">
