@@ -1,0 +1,8 @@
+{
+  "name": "Adja Fatou Sagna - Data Science Portfolio",
+  "description": "A high-end, modern portfolio for a 4th-year Data Science student, featuring interactive AI with PDF RAG capabilities and data visualizations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
