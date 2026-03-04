@@ -37,7 +37,7 @@ const Hero: React.FC = () => {
               {/* Photo Placeholder - Replace with real image URL */}
               <div className="w-full h-full bg-slate-900 rounded-[3rem] border border-white/10 overflow-hidden relative transition-all duration-700">
                 <img 
-                  src="/images/profil.jpg" 
+                  src="/images/me.jpeg" 
                   className="w-full h-full object-cover"
                   alt="Adja Fatou Sagna"
                   referrerPolicy="no-referrer"
