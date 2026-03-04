@@ -24,7 +24,7 @@ const Footer: React.FC = () => {
           </div>
 
           <p className="text-slate-500 max-w-md mx-auto text-sm md:text-base font-light leading-relaxed">
-            Data Analyst orientée Intelligence Artificielle.
+            Data Analyst / Scientist
           </p>
         </div>
 
