@@ -21,7 +21,7 @@ export const PROJECTS: Project[] = [
     solution: 'Architecture de réseaux de neurones convolutionnels (CNN) avec Transfer Learning. Entraînement optimisé sur GPU (Google Colab) sur un dataset équilibré de 11 050 images. Déploiement via une API Flask et une interface React.',
     results: 'Précision exceptionnelle de 98.19%. Système complet incluant un test d\'images en ligne en temps réel.',
     tech: ['Python', 'TensorFlow', 'Keras', 'Flask', 'React', 'Google Colab'],
-    imageUrl: '/images/(Deep Learning_Simpsons).png',
+    imageUrl: '/images/(Deep Learning _ Simpsons).png',
     githubUrl: 'https://github.com/Adjakim/cnn-simpsons-classifier'
   },
   {
