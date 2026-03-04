@@ -25,7 +25,7 @@ const About: React.FC = () => {
             <div className="mt-20 grid grid-cols-2 md:grid-cols-4 gap-8">
               {[
                 { label: 'Formation', val: 'Master en Intelligence artificielle, Big data et développement' },
-                { label: 'Spécialité', val: 'Net analyse et Science des données' },
+                { label: 'Spécialité', val: 'collecte, nettoyage et analyse des données' },
                 { label: 'Outils', val: 'python ,sql ,git, power bi , docker , unbuntu' },
                 { label: 'Localisation', val: 'Paris / Dakar' }
               ].map((item, i) => (
