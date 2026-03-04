@@ -10,7 +10,7 @@ export const PROJECTS: Project[] = [
     solution: 'Pipeline de Data Science complet : nettoyage, analyse statistique avancée (Chi², ANOVA, t-test, MANOVA) et modélisation via Random Forest optimisé avec SMOTE pour gérer le déséquilibre des classes.',
     results: 'Performance technique : AUC-ROC de 0.799, Recall de 57%, amélioration du F1-score de +34%. Impact métier : Gain estimé à +700 000€ pour 10 000 contacts via un ciblage prioritaire.',
     tech: ['Python', 'Pandas', 'Scikit-learn', 'XGBoost', 'imbalanced-learn', 'Matplotlib'],
-    imageUrl: '/images/projet-1.jpg',
+    imageUrl: '/images/banque.png',
     githubUrl: 'https://github.com/Adjakim/projet-analyse-exploiratoire-banking'
   },
   {
@@ -21,7 +21,7 @@ export const PROJECTS: Project[] = [
     solution: 'Architecture de réseaux de neurones convolutionnels (CNN) avec Transfer Learning. Entraînement optimisé sur GPU (Google Colab) sur un dataset équilibré de 11 050 images. Déploiement via une API Flask et une interface React.',
     results: 'Précision exceptionnelle de 98.19%. Système complet incluant un test d\'images en ligne en temps réel.',
     tech: ['Python', 'TensorFlow', 'Keras', 'Flask', 'React', 'Google Colab'],
-    imageUrl: '/images/projet-2.jpg',
+    imageUrl: '/images/(Deep Learning_Simpsons).png',
     githubUrl: 'https://github.com/Adjakim/cnn-simpsons-classifier'
   },
   {
@@ -32,7 +32,7 @@ export const PROJECTS: Project[] = [
     solution: 'Architecture ANN multicouche avec étapes rigoureuses de nettoyage, encodage des variables et normalisation des données. Visualisation et interprétation des frontières de décision.',
     results: 'Précision proche de 99%. Excellente capacité de généralisation sur les données de test.',
     tech: ['Python', 'Pandas', 'TensorFlow', 'Matplotlib'],
-    imageUrl: '/images/projet-3.jpg',
+    imageUrl: '/images/1.png',
     githubUrl: 'https://github.com/Adjakim/RNA_Classification_Binaire_2D'
   }
 ];
